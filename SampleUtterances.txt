@@ -1,0 +1,8 @@
+ResidentsIntent {Housemates}
+ResidentsIntent tell me about {Housemates}
+ResidentsIntent talk about {Housemates}
+ResidentsIntent who is {Housemates}
+ResidentsIntent what is {Housemates} favorite color
+ResidentsIntent tell me some facts about {Housemates}
+AMAZON.HelpIntent tell me the housemates names again 
+AMAZON.HelpIntent what are the housemates names again

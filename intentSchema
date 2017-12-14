@@ -1,0 +1,23 @@
+{
+	"intents" : [ {
+		"intent": "ResidentsIntent",
+		"slots": [
+			{
+				"name": "Housemates",
+				"type": "LIST_OF_HOUSEMATES"
+			}
+		]
+	},{
+		"intent": "AMAZON.YesIntent"
+	},{
+		"intent": "AMAZON.NoIntent"
+	},{
+		"intent": "AMAZON.HelpIntent"
+	},{
+		"intent": "AMAZON.StopIntent"
+	},{
+		"intent": "AMAZON.CancelIntent"
+	}
+
+	]
+}
